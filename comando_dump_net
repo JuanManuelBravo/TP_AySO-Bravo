@@ -1,0 +1,55 @@
+proc_pid_coredump_filter (5) - core dump filter
+accessdb (8)         - dumps the content of a man-db database in a human read...
+arptables-nft-save (8) - dump arptables rules to stdout (nft-based)
+aseqdump (1)         - show the events received at an ALSA sequencer port
+axfer-list (1)       - dump lists of available sound devices and nodes to tra...
+core (5)             - core dump file
+Data::Dump (3pm)     - Pretty printing of data structures
+Data::Dump::Filtered (3pm) - Pretty printing with filtering
+Data::Dump::Trace (3pm) - Helpers to trace function and method calls
+dump (8)             - ext2/3/4 filesystem backup
+dumpe2fs (8)         - dump ext2/ext3/ext4 file system information
+dumpkeys (1)         - dump keyboard translation tables
+hexdump (1)          - display file contents in hexadecimal, decimal, octal, ...
+htmltree (1p)        - Parse the given HTML file(s) and dump the parse tree
+iecset (1)           - Set or dump IEC958 status bits
+ip6tables-save (8)   - dump iptables rules
+iptables-save (8)    - dump iptables rules
+keymaps (5)          - keyboard table descriptions for loadkeys and dumpkeys
+lwp-dump (1p)        - See what headers and content is returned for a URL
+mawk-code (7)        - dumping 's byte-code
+Net::DBus::Dumper (3pm) - Stringify Net::DBus objects suitable for printing
+ntfsinfo (8)         - dump a file's attributes
+od (1)               - dump files in octal and other formats
+pppdump (8)          - convert PPP record file to readable format
+pw-dot (1)           - The PipeWire dot graph dump
+pw-dump (1)          - The PipeWire state dumper
+pw-mididump (1)      - The PipeWire MIDI dump
+rdump (8)            - ext2/3/4 filesystem backup
+restore (8)          - restore files or file systems from backups made with dump
+rmt-dump (8)         - remote magtape protocol module
+rrestore (8)         - restore files or file systems from backups made with dump
+scr_dump (5)         - curses screen dump
+screendump (1)       - dump the contents of a virtual console to stdout
+spa-json-dump (1)    - SPA JSON to JSON converter
+tc (8)               - show / manipulate traffic control settings
+tc-basic (8)         - basic traffic control filter
+tc-cgroup (8)        - control group based traffic control filter
+tc-flow (8)          - flow based traffic control filter
+tc-flower (8)        - flow based traffic control filter
+tc-fq (8)            - Fair Queue traffic policing
+tc-fw (8)            - fwmark traffic control filter
+tc-matchall (8)      - traffic control filter that matches every packet
+tc-route (8)         - route traffic control filter
+tc-tcindex (8)       - traffic control index filter
+tc-u32 (8)           - universal 32bit traffic control filter
+tcpdump (8)          - dump traffic on a network
+tcpsubnet-bpfcc (8)  - Summarize and aggregate IPv4 TCP traffic by subnet.
+trace-cmd-dump (1)   - show a meta data from a trace file, created by trace-c...
+undump.bt (8)        - Catch UNIX domain socket packages. Uses bpftrace/eBPF.
+usbhid-dump (8)      - dump USB HID device report descriptors and streams
+utmpdump (1)         - dump UTMP and WTMP files in raw format
+vmware-xferlogs (1)  - dump vm-support output to vmx logfile
+xwd (1)              - dump an image of an X window
+xxd (1)              - make a hex dump or do the reverse.
+zdump (8)            - timezone dumper
